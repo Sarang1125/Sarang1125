@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning different technologies **At CDAC Mumbai**
 
-- 🤝 I’m looking for **Backend-Developer Jobs**
+- 🤝 I’m looking for **Software-Developer Jobs**
 
 - 📫 You can reach me at **sarangvsankhe25@gmail.com**
 
